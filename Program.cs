@@ -29,16 +29,37 @@
 //4 => -4, -3, -2, -1, 0, 1, 2, 3, 4
 //2 => -2, -1, 0, 1, 2
 
+//Console.WriteLine("введите число");
+//int num = int.Parse(Console.ReadLine());
+
+//int negNam = -1 * num;
+
+//while(negNam <= num)
+//{
+//    Console.Write(negNam);
+//    Console.Write(" ");
+//    negNam = negNam + 1;
+    //negNam+=1;
+    //negNam++;
+//}
+
+
+//Напишите программу, которая принимает на вход
+//трёхзначное целое число и на выходе показывает сумму
+//первой и последней цифры этого числа.
+//456 => 10
+//782 => 9
+//918 => 17
+
 Console.WriteLine("введите число");
 int num = int.Parse(Console.ReadLine());
 
-int negNam = -1 * num;
+//int num1 = num/100;
+//int num3 = num%10;
 
-while(negNam <= num)
-{
-    Console.Write(negNam);
-    Console.Write(" ");
-    negNam = negNam + 1;
-    //negNam+=1;
-    //negNam++;
-}
+//int result = num1 + num3;
+int result = num/100 + num%10;
+//int result  = num / 10 % 10;
+//Console.WriteLine(result);
+Console.WriteLine("Сум" + result+ "ма"); //Конкатенация
+Console.WriteLine($"Сум = {result} ма2"); // Интерполяция
