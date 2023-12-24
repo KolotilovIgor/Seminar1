@@ -1,0 +1,15 @@
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.AssemblyInfoInputs.cache
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.AssemblyInfo.cs
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.csproj.CoreCompileInputs.cache
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.sourcelink.json
+C:\GB\GIT\Seminar1\bin\Debug\net8.0\Seminar1.exe
+C:\GB\GIT\Seminar1\bin\Debug\net8.0\Seminar1.deps.json
+C:\GB\GIT\Seminar1\bin\Debug\net8.0\Seminar1.runtimeconfig.json
+C:\GB\GIT\Seminar1\bin\Debug\net8.0\Seminar1.dll
+C:\GB\GIT\Seminar1\bin\Debug\net8.0\Seminar1.pdb
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.dll
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\refint\Seminar1.dll
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.pdb
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\Seminar1.genruntimeconfig.cache
+C:\GB\GIT\Seminar1\obj\Debug\net8.0\ref\Seminar1.dll
